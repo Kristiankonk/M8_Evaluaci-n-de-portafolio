@@ -1,96 +1,82 @@
-<p align="center">
-  <img src="assets/banner.png" alt="Banner del Portafolio" width="100%">
-</p>
+# 📘 Portafolio Profesional – Cristian Ramírez
+### Desarrollador Full Stack enfocado en soluciones digitales eficientes.
 
-# 👋 Hola, soy Cristian Ramírez
+## 🧩 Descripción General del Portafolio
+Este portafolio reúne los proyectos desarrollados durante mi proceso formativo como desarrollador Full Stack. Su objetivo es demostrar mi capacidad para crear productos digitales funcionales, aplicar buenas prácticas de desarrollo, utilizar herramientas actuales de la industria y resolver problemáticas reales mediante soluciones tecnológicas.
 
-Estudiante de Ingeniería Civil Industrial y desarrollador en formación. Me especializo en crear soluciones tecnológicas aplicadas a problemas reales, combinando análisis de datos, desarrollo web con Python/Django y mejora de procesos.
+## 🎯 Objetivos del Portafolio
+- Presentar proyectos digitales funcionales.
+- Documentar el proceso de análisis, diseño, desarrollo e implementación.
+- Demostrar dominio de tecnologías modernas.
+- Construir un portafolio profesional accesible para oportunidades laborales.
 
-Este portafolio reúne mis principales proyectos, prototipos y trabajos técnicos realizados durante mi formación.
+## 🛠️ Tecnologías Principales Utilizadas
+- Python / Django
+- MySQL
+- HTML5, CSS3, Bootstrap 5
+- JavaScript
+- Git & GitHub
+- Entornos Virtuales (venv)
 
----
+# 📁 Proyectos Incluidos
 
-## 🚀 Proyectos Destacados
+# 🔹 Proyecto 1: Tienda de Coleccionables – Aplicación Web Full Stack
+## Descripción
+Plataforma web para visualizar productos, gestionar un carrito de compras y realizar pedidos. Incluye panel administrativo.
 
-### **1. Recitronic – Sistema de Gestión de Reciclaje Electrónico**
-Plataforma web para administrar solicitudes de retiro, clientes y artículos reciclados.  
-**Tecnologías:** Django, Python, Bootstrap, MySQL  
-🔗 Repositorio: *(agregar enlace)*  
-🔗 Hosting (Render): *(agregar enlace)*  
+## Características
+- Carrito persistente en sesión
+- Validación de stock
+- Autenticación integrada
+- CRUD completo (productos, categorías, pedidos, clientes)
+- Diseño responsivo
 
----
-
-### **2. Sabores del Mundo – Sistema de Gestión para Restaurante (POO)**
-Sistema basado en Programación Orientada a Objetos para administrar pedidos y menú.  
-**Tecnologías:** Python  
-🔗 Repositorio: *(agregar enlace)*  
-
----
-
-### **3. BikeCity – Sistema de Reservas**
-Aplicación que permite gestionar reservas de bicicletas, con manejo de excepciones.  
-**Tecnologías:** Python  
-🔗 Repositorio: *(agregar enlace)*  
-
----
-
-### **4. Portafolio UX/UI – Proyecto Behance**
-Diseño de interfaz orientado al usuario, con prototipos en Figma.  
-**Tecnologías:** Figma  
-🔗 Behance: *(agregar enlace)*  
+## Tecnologías
+Django, MySQL, Bootstrap 5.
 
 ---
 
-## 🛠️ Tecnologías que manejo
+# 🔹 Proyecto 2: Sistema de Reservas – Plataforma para Agendar Servicios
+## Descripción
+Aplicación web que permite registrar usuarios, gestionar servicios y realizar reservas con validación de disponibilidad.
 
-### **Lenguajes**
-- Python  
-- JavaScript  
-- SQL  
+## Características
+- CRUD de servicios (staff)
+- CRUD de reservas (usuarios)
+- Sistema de autenticación
+- Interfaz responsiva
 
-### **Frameworks y herramientas**
-- Django  
-- Bootstrap  
-- Git & GitHub  
-- VS Code  
-
-### **Bases de datos**
-- MySQL  
-- PostgreSQL  
-
-### **Diseño**
-- Figma  
-- Canva  
+## Tecnologías
+Django, Bootstrap 5.
 
 ---
 
-## 🌐 Proyectos Desplegados
-
-- **GitHub Pages:** *(agregar enlace)*  
-- **Render (Django – Recitronic):** *(agregar enlace)*  
-- **Notion/Figma (Prototipos UX/UI):** *(agregar enlace)*  
-
----
-
-## 📺 Video Técnico (YouTube)
-
-Explicación de 3–5 minutos del proyecto Recitronic:  
-🔗 *(enlace al video)*
+# 🌐 Portafolio Web
+El sitio incluye:
+- Página de inicio profesional
+- Sección sobre mí
+- Proyectos
+- Enlaces a GitHub y LinkedIn
 
 ---
 
-## 📄 Licencia
-
-Este portafolio utiliza **Licencia MIT**.  
-Puedes encontrar más información en el archivo `LICENSE`.
-
----
-
-## ✨ Contacto
-
-📧 cristian.ramirez@email.com  
-🔗 LinkedIn: *(agregar enlace)*  
+# 🧭 Enfoque de Desarrollo
+- Análisis de requerimientos
+- Arquitectura MTV
+- Control de versiones con Git
+- Pruebas funcionales
+- Documentación técnica
 
 ---
 
-<p align="center">Gracias por visitar mi portafolio 👨‍💻</p>
+# 🧠 Reflexión Final
+Este portafolio representa un avance significativo en mi formación como desarrollador Full Stack, permitiéndome construir soluciones escalables, estructuradas y alineadas con las necesidades reales de usuarios y organizaciones.
+
+---
+
+# 📬 Contacto
+**Cristian Ramírez**  
+Desarrollador Full Stack  
+📧 Correo: cristian.ramirez1901@alumnos.ubiobio.cl  
+🔗 GitHub: https://github.com/Kristiankonk
+🔗 LinkedIn: www.linkedin.com/in/crisramireza
